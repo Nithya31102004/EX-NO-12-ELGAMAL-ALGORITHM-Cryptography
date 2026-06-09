@@ -1,4 +1,6 @@
 # EX-NO-12-ELGAMAL-ALGORITHM
+##NAME:NITHYA T
+##REG NO:2305001023
 
 ## AIM:
 To Implement ELGAMAL ALGORITHM
@@ -67,6 +69,8 @@ print("Decrypted Message:", decrypted)
 ```
 
 ## Output:
+<img width="588" height="313" alt="image" src="https://github.com/user-attachments/assets/158822f0-9690-4319-8448-6d3c43c81579" />
+
 
 
 
